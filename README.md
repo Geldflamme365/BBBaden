@@ -7,8 +7,8 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
 ### 16.8.24
  
 - **Ziele lektion 1&2:** 
-  - [ ] leistungsziel 1705
-  - [ ] leistungsziel 1706
+  - [x] leistungsziel 1705
+  - [x] leistungsziel 1706
 - **Ziele lektion 3-5:**
   - [ ] an modul 319 arbeiten
 
