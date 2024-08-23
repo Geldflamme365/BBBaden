@@ -5,8 +5,8 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
 ## Modul 431
 ### 23.8.24
 - **Ziele**
-  - [ ] Leistungsziel 6907
-  - [ ] Leistungsziel 6908
+  - [x] Leistungsziel 6907
+  - [x] Leistungsziel 6908
  
 ### 16.8.24
  
