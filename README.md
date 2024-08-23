@@ -7,7 +7,10 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
 - **Ziele**
   - [x] Leistungsziel 6907
   - [x] Leistungsziel 6908
- 
+  - [x] Leistungsziel 6909
+-**Reflexion**
+ -ich habe die ersten 4 lektion so produktiv gearbeitet, dass ich sogar mmit dem nicht geplanten
+  Leistungziel 6909 fertig geworden bin.
 ### 16.8.24
  
 - **Ziele lektion 1&2:** 
