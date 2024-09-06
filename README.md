@@ -3,10 +3,15 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
  
 ## Modul 431
+### 06.09.24
+ - **Ziele**
+   - [ ] den Sonderauftrag von Frau Rieder ausführen.
+ - **Reflexion**
+   
 ### 30.8.24
- -**Ziele**
+ - **Ziele**
   - [x] Leistungsziel 6912
- -**Reflexion**
+ - **Reflexion**
   - Wir haben heute produktiv an Ziel 6912 gearbeitet und beendet.
 ### 23.8.24
 - **Ziele**
