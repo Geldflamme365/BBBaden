@@ -5,9 +5,9 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
 ## Modul 431
 ### 06.09.24
  - **Ziele**
-   - [ ] den Sonderauftrag von Frau Rieder ausführen.
+   - [x] den Sonderauftrag von Frau Rieder ausführen.
  - **Reflexion**
-   
+   - wir haben den Sondrauftrag ausgeführt.
 ### 30.8.24
  - **Ziele**
   - [x] Leistungsziel 6912
