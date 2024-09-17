@@ -7,7 +7,7 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
  - **Ziele**
    - [x] den Sonderauftrag von Frau Rieder ausführen.
  - **Reflexion**
-   - wir haben den Sondrauftrag ausgeführt.
+   - ich haben den Sondrauftrag ausgeführt.
 ### 30.8.24
  - **Ziele**
   - [x] Leistungsziel 6912
