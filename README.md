@@ -3,6 +3,16 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
  
 ## Modul 431
+### 20.09.24
+ - **Ziele**
+   - [ ] Einen der 5 Aufträge erledigen.
+ - **Reflexion**
+   - 
+### 14.09.24
+ - **Ziele**
+  - [x] TicTacToe erledigen.
+ - **Reflexion**
+  - Habe TicTacToe programmiert.
 ### 06.09.24
  - **Ziele**
    - [x] den Sonderauftrag von Frau Rieder ausführen.
