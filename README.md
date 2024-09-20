@@ -7,7 +7,7 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
  - **Ziele**
    - [ ] Einen der 5 Aufträge erledigen.
  - **Reflexion**
-   - 
+   - Ich habe einen auftrag gemacht und mit fynn etwas zu Backend angeschaut.
 ### 14.09.24
  - **Ziele**
   - [x] TicTacToe erledigen.
