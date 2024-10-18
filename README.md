@@ -3,6 +3,11 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
  
 ## Modul 431
+### 18.10.24
+ - **Ziele**
+   - [ ] 1-2 der Aufträge über die Ferien erledigen.
+ - **Reflexion**
+   -  
 ### 20.09.24
  - **Ziele**
    - [ ] Einen der 5 Aufträge erledigen.
