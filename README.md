@@ -4,8 +4,8 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
  
 ## Modul 431
 ### 25.10.24
- -**Ziele**
-   - [ ] Mal in Windows Forms Reinschauen.
+ - **Ziele**
+   - [x] Mal in Windows Forms Reinschauen.
  - **Reflexion**
    - Habe in form reingeschaut und aufgaben gemacht.
    - Tobias wägrend der Pause in Brawl Stars besiegt
