@@ -8,7 +8,7 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
    - [ ] Mal in Windows Forms Reinschauen.
  - **Reflexion**
    - Habe in form reingeschaut und aufgaben gemacht.
-   - Tobias wägrend der PAuse in Brawl Stars besiegt
+   - Tobias wägrend der Pause in Brawl Stars besiegt
 ### 18.10.24
  - **Ziele**
    - [ ] 1-2 der Aufträge über die Ferien erledigen.
