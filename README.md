@@ -5,8 +5,11 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
 ## Modul 431
 ### 01.11.24
  - **Ziele**
-   - [] Mit Herr Wiget Testprotokoll M319 lernen
-   - [] Mit Herr Wiget Anforderungsanalyse M319 lernen
+   - [x] Mit Herr Wiget Testprotokoll M319 lernen
+   - [x] Backendfrontend Verbindung mit Fynn anschauen
+ - **Reflexion**
+   - alle ziele erledigt
+   - Beim Input zu M319 mein Wissen gestärkt
 ### 25.10.24
  - **Ziele**
    - [x] Mal in Windows Forms Reinschauen.
