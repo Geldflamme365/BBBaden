@@ -3,12 +3,15 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
  
 ## Modul 431
+### 01.11.24
+ - **Ziele**
+   - [] Mit Herr Wiget Testprotokoll M319 lernen
+   - [] Mit Herr Wiget Anforderungsanalyse M319 lernen
 ### 25.10.24
  - **Ziele**
    - [x] Mal in Windows Forms Reinschauen.
  - **Reflexion**
    - Habe in form reingeschaut und aufgaben gemacht.
-   - Tobias wägrend der Pause in Brawl Stars besiegt
 ### 18.10.24
  - **Ziele**
    - [ ] 1-2 der Aufträge über die Ferien erledigen.
