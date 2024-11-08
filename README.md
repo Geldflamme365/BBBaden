@@ -2,7 +2,10 @@
  
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
  
-## Modul 431
+### 08.11.24
+ - **Ziele**
+   - [ ] Mit Max und Fynn ein passendes UI für das Projekt erstellen.
+   - [ ] Shared Github Repository für das Projekt erstellen.
 ### 01.11.24
  - **Ziele**
    - [x] Mit Herr Wiget Testprotokoll M319 lernen
