@@ -4,9 +4,11 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
  
 ### 08.11.24
  - **Ziele**
-   - [ ] Mit Max das generelle graphische Design für das UI besprechen.
+   - [x] Mit Max das generelle graphische Design für das UI besprechen.
    - [ ] Mit Fynn die Frontend Backend Verbindung besprechen.
-   - [ ] Shared Github Repository für das Projekt erstellen.
+   - [x] Shared Github Repository für das Projekt erstellen.
+ - **REflexion**
+   - Ich habe alle meine Ziel3e ereichen können. 
 ### 01.11.24
  - **Ziele**
    - [x] Mit Herr Wiget Testprotokoll M319 lernen
