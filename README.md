@@ -4,7 +4,8 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
  
 ### 08.11.24
  - **Ziele**
-   - [ ] Mit Max und Fynn ein passendes UI für das Projekt erstellen.
+   - [ ] Mit Max das generelle graphische Design für das UI besprechen.
+   - [ ] Mit Fynn die Frontend Backend Verbindung besprechen.
    - [ ] Shared Github Repository für das Projekt erstellen.
 ### 01.11.24
  - **Ziele**
