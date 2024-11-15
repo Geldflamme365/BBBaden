@@ -1,7 +1,11 @@
 # Lernatelier BBBaden - Lernplanung
  
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
- 
+### 15.11.25
+ - **Ziele**
+   - [ ] Erste Schritte des UI Umsetzen.
+   - [ ] Lernen mit CSS Graphen erstellen.
+   - [ ] Underline Aniamtionen bei buttons mit CSS.
 ### 08.11.24
  - **Ziele**
    - [x] Mit Max das generelle graphische Design für das UI besprechen.
