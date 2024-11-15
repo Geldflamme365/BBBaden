@@ -3,7 +3,7 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
 ### 15.11.25
  - **Ziele**
-   - [ ] Erste Schritte des UI Umsetzen.
+   - [ ] Ich werde mich versuchen mit dem SQLite Manager zu verbinden und Daten zu ziehen.
    - [ ] Lernen mit CSS Graphen erstellen.
    - [ ] Underline Aniamtionen bei buttons mit CSS.
 ### 08.11.24
