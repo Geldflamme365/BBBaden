@@ -4,8 +4,10 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
 ### 15.11.25
  - **Ziele**
    - [ ] Ich werde mich versuchen mit dem SQLite Manager zu verbinden und Daten zu ziehen.
-   - [ ] Lernen mit CSS Graphen erstellen.
-   - [ ] Underline Aniamtionen bei buttons mit CSS.
+   - [x] Lernen mit CSS Graphen erstellen.
+   - [x] Underline Aniamtionen bei buttons mit CSS.
+ - **Reflexion**
+   - ich konnte meine Ziele grösstenteils erfüllen.
 ### 08.11.24
  - **Ziele**
    - [x] Mit Max das generelle graphische Design für das UI besprechen.
