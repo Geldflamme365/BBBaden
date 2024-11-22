@@ -1,6 +1,12 @@
 # Lernatelier BBBaden - Lernplanung
  
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
+### 22.11.25
+ - **Ziele**
+   - [] Ich werde mit Fynn zusammen versuchen die Backend Verbindung herzustellen.
+   - [] Ich werde mich wenn ich genügend Zeit habe noch
+ - **Reflexion**
+   -
 ### 15.11.25
  - **Ziele**
    - [ ] Ich werde mich versuchen mit dem SQLite Manager zu verbinden und Daten zu ziehen.
