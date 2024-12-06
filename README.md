@@ -3,7 +3,6 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
 ### 06.12.24
  - **Ziele**
-  -  Heute arbeite ich an M162 arbeiten. 
    - [ ] Zwischentabellen verstehen
    - [ ] Rekursive Beziehungen verstehen
    - [ ] Normalisierungen verstehen   
