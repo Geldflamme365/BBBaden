@@ -3,9 +3,11 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
 ### 06.12.24
  - **Ziele**
-   - [ ] Zwischentabellen verstehen
-   - [ ] Rekursive Beziehungen verstehen
-   - [ ] Normalisierungen verstehen   
+   - [x] Zwischentabellen verstehen
+   - [x] Rekursive Beziehungen verstehen
+   - [x] Normalisierungen verstehen
+ - **Reflexion**
+   - Ich konnte alle miene Ziele erfüllen und habe noch an dem Gesamtreflexion Input teilgenommen.   
 ### 29.11.24
  - **Ziele**
    - [x] Ich werde mit Fynn zusammen heute unser Projekt finalisieren indem wir die Verbindung herstellen.
