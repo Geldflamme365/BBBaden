@@ -1,6 +1,9 @@
 # Lernatelier BBBaden - Lernplanung
  
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
+### Programmierprojekt
+ - **Tetris mit Svanik**
+   - Svanik und ich werden zusammen probieren eine C# Konsolenapplikation zu programmieren, welche eine Spiel ähnlich zu dem Retro-Klassiker "Tetris" darstellt.
 ### 06.12.24
  - **Ziele**
    - [x] Zwischentabellen verstehen
