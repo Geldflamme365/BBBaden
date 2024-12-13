@@ -3,9 +3,11 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
 ### 13.12.24
  - **Ziele**
-   - [ ] Anforderungen / Dokumentation beginnen.
-   - [ ] Informieren ob Konsolenerweiterungen nötig sind.
-   - [ ] GitHub Repos erstellen.
+   - [x] Anforderungen / Dokumentation beginnen.
+   - [x] Informieren ob Konsolenerweiterungen nötig sind.
+   - [x] GitHub Repos erstellen.
+ - **Reflexion**
+   - Ich konnte alle miene Ziele erfüllen und wir hatten noch Zeit ein bisschen zu entspannen.  
 ### Programmierprojekt
  - **Tetris mit Svanik**
    - Svanik und ich werden zusammen probieren eine C# Konsolenapplikation zu programmieren, welche eine Spiel ähnlich zu dem Retro-Klassiker "Tetris" darstellt.
