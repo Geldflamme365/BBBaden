@@ -1,6 +1,11 @@
 # Lernatelier BBBaden - Lernplanung
  
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
+### 20.12.24
+ - **Ziele**
+   - [ ] Mit Svanik an Modul 117 weiterarbeiten
+   - [ ] MIt Svanik Recherche betreiben zu unserem Projekt betreiben.
+ - **Reflexion**
 ### 13.12.24
  - **Ziele**
    - [x] Anforderungen / Dokumentation beginnen.
