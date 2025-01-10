@@ -3,11 +3,11 @@
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
 ### 10.01.24
  - **Ziele**
-   - [ ] Ich werde heute meinen FOkus auf Modul 164 setzen, weil ich im Plan hinten drein bin.
-   - [ ] LZ. 2.4
-   - [ ] LZ. 2.5
+   - [x] Ich werde heute meinen FOkus auf Modul 164 setzen, weil ich im Plan hinten drein bin.
+   - [x] LZ. 2.4
+   - [x] LZ. 2.5
  - **Reflexion**
-   - 
+   - Ich konnte alle Ziele abschliessen und bin im Plan wieder mit dabei
 ### 20.12.24
  - **Ziele**
    - [x] Mit Svanik an Modul 117 weiterarbeiten
