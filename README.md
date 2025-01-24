@@ -1,6 +1,13 @@
 # Lernatelier BBBaden - Lernplanung
  
 Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem Dokument werde ich meine täglichen Lernziele und meinen Fortschritt dokumentieren.
+### 24.01.24
+ - **Ziele**
+   - Beim Tetris Projekt eine Funktion einbauen, dass die Blöcke automatisch runterfallen.
+   - Eine Funktion hinzufügen, dass eine Ganze Linie verschwindet.
+   - An Modul 117 Bisschen vorarbeiten.
+### 17.01.24
+ - Ich konnte durch miene plötzliche Erkrankung nicht am Unterricht teilnehmen.
 ### 10.01.24
  - **Ziele**
    - [x] Ich werde heute meinen FOkus auf Modul 164 setzen, weil ich im Plan hinten drein bin.
