@@ -6,6 +6,8 @@ Willkommen zu meiner Lernplanung für das Lernatelier an der BBBaden. In diesem 
    - Beim Tetris Projekt eine Funktion einbauen, dass die Blöcke automatisch runterfallen.
    - Eine Funktion hinzufügen, dass eine Ganze Linie verschwindet.
    - An Modul 117 Bisschen vorarbeiten.
+ - **Reflexion**
+   - Ich konnte einen Grossteil meiner Ziele erfüllen, ausser die Funktion, dass eine vollständige Linie erkannt wird.
 ### 17.01.24
  - Ich konnte durch miene plötzliche Erkrankung nicht am Unterricht teilnehmen.
 ### 10.01.24
